@@ -23,13 +23,13 @@ To resolve this, we propose a slow-fast architecture that outputs the hidden var
 Below are three demonstrations showcasing the demo of our VLA model on full-humanoid hardware:
 
 ### 1. Dynamic Locomotion & Manipulation
-<img src="Take_cola.gif" alt="Dynamic Locomotion & Manipulation" width="600">
+<img src="Take_cola.gif" alt="Dynamic Locomotion & Manipulation" width="200">
 
 ### 2. Clean_table
-<img src="Clean_table.gif" alt="Clean table" width="600">
+<img src="Clean_table.gif" alt="Clean table" width="200">
 
 ### 3. Tidying up the house
-<img src="Tidying_up_the_house.gif" alt="Tidying up the house" width="600">
+<img src="Tidying_up_the_house.gif" alt="Tidying up the house" width="200">
 
 ## 🚀 Open Source Roadmap
 
