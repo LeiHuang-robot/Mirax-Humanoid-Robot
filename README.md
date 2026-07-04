@@ -22,17 +22,14 @@ To resolve this, we propose a slow-fast architecture that outputs the hidden var
 
 Below are three demonstrations showcasing the demo of our VLA model on full-humanoid hardware:
 
-### 1. Dynamic Obstacle Avoidance & Locomotion & Manipulation
-![Dynamic Obstacle Avoidance & Locomotion & Manipulation](Clean_table.mp4)
-> Demonstrating the robot's ability to maintain balance and adjust its global trajectory smoothly when facing sudden environmental changes.
+### 1. Dynamic Locomotion & Manipulation
+![Dynamic Locomotion & Manipulation](Take_cola.mp4)
 
-### 2. High-Frequency Dexterous Manipulation
-![High-Frequency Dexterous Manipulation](./assets/demo2.gif)
-> Showcasing fine-grained bimanual coordination and tremor-free interactions powered by the 40Hz Fast step flow matching.
+### 2. Clean_table
+![Clean table](Clean_table.mp4)
 
-### 3. Robustness to External Disturbances
-![Robustness to External Disturbances](./assets/demo3.gif)
-> Highlighting the "cerebellar" foundation model's capability to instantly generate compensatory motor commands when the robot's limbs are subjected to unexpected physical impacts.
+### 3. Tidying up the house
+![Tidying up the house](Tidying_up_the_house.mp4)
 
 ## 🚀 Open Source Roadmap
 
