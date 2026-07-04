@@ -26,7 +26,7 @@ Below are three demonstrations showcasing the demo of our VLA model on full-huma
 ![Dynamic Locomotion & Manipulation](Take_cola.mp4)
 
 ### 2. Clean_table
-![Clean table](Clean_table.mp4)
+![Clean table](Clean_table.gif)
 
 ### 3. Tidying up the house
 ![Tidying up the house](Tidying_up_the_house.mp4)
