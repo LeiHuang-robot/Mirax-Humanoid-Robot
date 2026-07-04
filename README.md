@@ -20,10 +20,10 @@ To resolve this, we propose a slow-fast architecture that outputs the hidden var
 
 ## 🎥 Demo Gallery
 
-Below are three demonstrations showcasing the zero-shot generalization and high-frequency robustness of our VLA model on full-humanoid hardware:
+Below are three demonstrations showcasing the demo of our VLA model on full-humanoid hardware:
 
-### 1. Dynamic Obstacle Avoidance & Locomotion
-![Dynamic Obstacle Avoidance & Locomotion](./assets/demo1.gif)
+### 1. Dynamic Obstacle Avoidance & Locomotion & Manipulation
+![Dynamic Obstacle Avoidance & Locomotion & Manipulation](Clean_table.mp4)
 > Demonstrating the robot's ability to maintain balance and adjust its global trajectory smoothly when facing sudden environmental changes.
 
 ### 2. High-Frequency Dexterous Manipulation
